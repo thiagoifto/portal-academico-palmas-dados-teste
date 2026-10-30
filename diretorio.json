@@ -1,6 +1,6 @@
 {
  "versao": "diretorio.v1",
- "gerado_em": "2026-10-30T14:04:39.196Z",
+ "gerado_em": "2026-10-30T23:48:37.834Z",
  "origem": "Planilha administrável — TESTE R3.20-A1 (dados fictícios)",
  "aviso": "Dados fictícios de teste. Não utilize estes contatos.",
  "categorias": {
@@ -14,7 +14,7 @@
  "contatos": [
   {
    "id": "teste-r320a1-atendimento-alfa",
-   "nome": "[TESTE] Atendimento Fictício Alfa",
+   "nome": "[TESTE] Atendimento Fictício Alfa Atualizado",
    "tipo": "CANAL",
    "categoria": "ATENDIMENTO",
    "sigla": "TSTA",
@@ -84,5 +84,5 @@
    "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)"
   }
  ],
- "hash": "73a2708bd16efb9310b116480230126e669040f44dc5d10fbae787b8c38e9be5"
+ "hash": "c4210ae62de227d5597ce73ff462a2093d74bb4436db4542b631d229774d693e"
 }
