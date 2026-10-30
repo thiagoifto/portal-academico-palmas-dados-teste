@@ -1,0 +1,88 @@
+{
+ "versao": "diretorio.v1",
+ "gerado_em": "2026-10-30T14:04:39.196Z",
+ "origem": "Planilha administrável — TESTE R3.20-A1 (dados fictícios)",
+ "aviso": "Dados fictícios de teste. Não utilize estes contatos.",
+ "categorias": {
+  "ATENDIMENTO": "Atendimento e secretaria",
+  "COORDENACAO_CURSO": "Coordenações de curso",
+  "APOIO_ESTUDANTE": "Apoio ao estudante",
+  "ENSINO": "Ensino e estágio",
+  "PESQUISA_EXTENSAO": "Pesquisa e extensão",
+  "GESTAO_CAMPUS": "Direção e administração"
+ },
+ "contatos": [
+  {
+   "id": "teste-r320a1-atendimento-alfa",
+   "nome": "[TESTE] Atendimento Fictício Alfa",
+   "tipo": "CANAL",
+   "categoria": "ATENDIMENTO",
+   "sigla": "TSTA",
+   "email": "teste-r320a1-alfa@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 0000-0101",
+     "tel": "+556300000101",
+     "rotulo": "atendimento"
+    }
+   ],
+   "localizacao": "Bloco Fictício A",
+   "horario": {
+    "rotulo": "Horário de atendimento",
+    "texto": "Dias úteis, 8h às 12h (fictício)"
+   },
+   "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)",
+   "assuntos": [
+    "teste ficticio",
+    "atendimento ficticio"
+   ]
+  },
+  {
+   "id": "teste-r320a1-setor-beta",
+   "nome": "[TESTE] Setor Fictício Beta",
+   "tipo": "SETOR",
+   "categoria": "ENSINO",
+   "sigla": "TSTB",
+   "email": "teste-r320a1-beta@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 0000-0102",
+     "tel": "+556300000102"
+    }
+   ],
+   "localizacao": "Bloco Fictício B",
+   "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)"
+  },
+  {
+   "id": "teste-r320a1-apoio-gama",
+   "nome": "[TESTE] Apoio Fictício Gama",
+   "tipo": "SERVICO",
+   "categoria": "APOIO_ESTUDANTE",
+   "email": "teste-r320a1-gama@ifto.edu.br",
+   "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)",
+   "assuntos": [
+    "teste propagacao"
+   ]
+  },
+  {
+   "id": "teste-r320a1-coord-hospedagem",
+   "nome": "[TESTE] Coordenação Fictícia (Hospedagem)",
+   "tipo": "COORDENACAO_CURSO",
+   "categoria": "COORDENACAO_CURSO",
+   "cursos": [
+    "tecnico-em-hospedagem-ensino-medio-integrado"
+   ],
+   "email": "teste-r320a1-coord@ifto.edu.br",
+   "telefones": [
+    {
+     "numero": "(63) 0000-0104",
+     "tel": "+556300000104",
+     "rotulo": "coordenação"
+    }
+   ],
+   "localizacao": "Sala Fictícia 104",
+   "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)"
+  }
+ ],
+ "hash": "73a2708bd16efb9310b116480230126e669040f44dc5d10fbae787b8c38e9be5"
+}

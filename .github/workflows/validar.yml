@@ -1,0 +1,14 @@
+# Valida o arquivo publicado a cada envio (somente leitura; sem segredos).
+name: Validar diretorio.json
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Contrato diretorio.v1 (somente contatos fictícios)
+        run: python3 validar-diretorio.py diretorio.json --somente-ficticios
