@@ -1,6 +1,6 @@
 {
  "versao": "diretorio.v1",
- "gerado_em": "2026-10-30T23:48:37.834Z",
+ "gerado_em": "2026-10-31T23:03:43.465Z",
  "origem": "Planilha administrável — TESTE R3.20-A1 (dados fictícios)",
  "aviso": "Dados fictícios de teste. Não utilize estes contatos.",
  "categorias": {
@@ -59,6 +59,7 @@
    "tipo": "SERVICO",
    "categoria": "APOIO_ESTUDANTE",
    "email": "teste-r320a1-gama@ifto.edu.br",
+   "localizacao": "Bloco Fictício G",
    "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)",
    "assuntos": [
     "teste propagacao"
@@ -84,5 +85,5 @@
    "fonte_texto": "Cadastro sintético da prova de conceito R3.20-A1 (não é contato real)"
   }
  ],
- "hash": "c4210ae62de227d5597ce73ff462a2093d74bb4436db4542b631d229774d693e"
+ "hash": "dc050f4720cfba00d9cd3c2cf127873e041a7bf485b65f81a8450fa9692a5d78"
 }
